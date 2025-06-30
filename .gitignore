@@ -196,3 +196,6 @@ cython_debug/
 .gitignore
 .python-version
 main.py
+
+working-with-data*
+datasets*
